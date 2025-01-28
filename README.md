@@ -48,5 +48,6 @@ This code provides a beginner-friendly implementation of sentiment analysis usin
 
 **###OUTPUT**
 
+![Image](https://github.com/user-attachments/assets/124acb40-27af-4c8f-aeed-7e2a1034c75d)
 
 
